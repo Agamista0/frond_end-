@@ -1,0 +1,62 @@
+a{
+    font-variant: small-caps;
+    font-family: "Fugaz One Regular" , cursive ;
+
+}
+
+.img_baner{
+    width: 100% ;
+    padding-left: 200px;
+}
+.back_color{
+    background-color:rgb(0, 0, 0);
+}
+#search{
+    color: gold;
+}
+h1{
+    padding: top 0.5em;;
+    color: #d32fe5;   
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-family: fantasy;
+ 
+}
+.text-1{font-family: "Fugaz One Regular" , cursive ;
+    color: aliceblue;
+}
+.text-2{
+padding-top: 110px;
+    color: gold;
+    
+    
+
+}
+
+h2{
+    color: aliceblue;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-family: fantasy;
+}
+h5{
+    color: #203876;
+    font-style: italic;
+    font-weight: bold;
+    font-family: fantasy;
+    
+}
+.card-text{
+    color: gray;
+}
+.card:hover{
+    box-shadow: 10px 10px 24px -4px GRAY;
+    font-size : 17px;
+}
+.d-flex{ 
+        font-variant: small-caps;
+    font-family: "Fugaz One Regular" , cursive ;
+
+}
